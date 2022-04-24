@@ -11,9 +11,9 @@
 }
 
 :root{
-  --page-width: 8.5in;
+  --page-width: 9.5in;
   --page-height: 11in;
-  --main-width: 6.4in;
+  --main-width: 7.4in;
   --sidebar-width: calc(var(--page-width) - var(--main-width));
   --decorator-horizontal-margin: 0.2in;
 
@@ -63,7 +63,7 @@ li{
   float: right;
   position: relative; /* for disclaimer */
   width: var(--sidebar-width);
-  height: 12in;
+  height: 12.3in;
   padding: 0.6in var(--sidebar-horizontal-padding);
   background-color: #f2f2f2;
   font-size:1.5pt;
